@@ -2,7 +2,7 @@
 
 **Less work. More focus on what matters.**
 
-Arreat Systems SIA is a Latvian software company, founded in 2026. We build SaaS platforms and the integrations around them: the pipes that connect your bank, your e-invoicing, your payment providers and your mail to your business, so your people stop copy-pasting between systems and start doing the work that actually matters.
+**Arreat Systems SIA** is a Latvian software company, founded in 2026. We build SaaS platforms and the integrations around them: the pipes that connect your bank, your e-invoicing, your payment providers and your mail to your business, so your people stop copy-pasting between systems and start doing the work that actually matters.
 
 ## What we do
 
